@@ -1,102 +1,150 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\",
+  "WorkspaceRootPath": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\repositories\\implementations\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\implementations\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\repositories\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\dataaccess\\data\\configurations\\carcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\dataaccess\\data\\configurations\\carcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\migrations\\20250201105539_projectready.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\migrations\\20250201105539_projectready.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\service\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\service\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\service\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\service\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\service\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\service\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\service\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\dataaccess\\data\\configurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\dataaccess\\data\\configurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\service\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\entities\\carcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\entities\\carcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\dataaccess\\data\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\dataaccess\\data\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\service\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\dataaccess\\data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\service\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\dataaccess\\data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\dataaccess\\data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\dataaccess\\data\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\dataaccess\\data\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\dataaccess\\data\\configurations\\modelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\dataaccess\\data\\configurations\\modelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\dataaccess\\data\\configurations\\modelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvinei\\desktop\\dasdasd\\test\\ef - homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\repositories\\interfaces\\imodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\interfaces\\imodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\migrations\\20250131205109_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\migrations\\20250131205109_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\migrations\\20250131210341_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\migrations\\20250131210341_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\pb503exceptions\\invalididexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\pb503exceptions\\invalididexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\pb503exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\pb503exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\dataaccess\\data\\configurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\dataaccess\\data\\configurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\service\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\service\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\repositories\\implementations\\modelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\implementations\\modelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\service\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\repositories\\implementations\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\implementations\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\repositories\\implementations\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\implementations\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\service\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\repositories\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\service\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\repositories\\interfaces\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\interfaces\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\dtos\\brand\\brandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\dtos\\brand\\brandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\ef - homework\\ef - homework\\service\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671FB0C5-1BBE-4832-BB27-344A64A05EAE}|EF - Homework\\EF - Homework.csproj|solutionrelative:ef - homework\\service\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,315 +154,442 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IBrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Repositories\\Interfaces\\IBrandRepository.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Interfaces\\IBrandRepository.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Repositories\\Interfaces\\IBrandRepository.cs",
-              "RelativeToolTip": "EF - Homework\\Repositories\\Interfaces\\IBrandRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20250201105539_ProjectReady.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Migrations\\20250201105539_ProjectReady.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Migrations\\20250201105539_ProjectReady.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Migrations\\20250201105539_ProjectReady.cs",
+              "RelativeToolTip": "EF - Homework\\Migrations\\20250201105539_ProjectReady.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:48:50.965Z",
+              "WhenOpened": "2025-02-01T10:55:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\Configurations\\CarColorConfiguration.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\Configurations\\CarColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\Configurations\\CarColorConfiguration.cs",
+              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\Configurations\\CarColorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:52:52.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Repositories\\Implementations\\BrandRepository.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Implementations\\BrandRepository.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Repositories\\Implementations\\BrandRepository.cs",
-              "RelativeToolTip": "EF - Homework\\Repositories\\Implementations\\BrandRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Program.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Program.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Program.cs",
+              "RelativeToolTip": "EF - Homework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:46:57.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ModelService.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Implementations\\ModelService.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Service\\Implementations\\ModelService.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Implementations\\ModelService.cs",
-              "RelativeToolTip": "EF - Homework\\Service\\Implementations\\ModelService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:44:57.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ColorService.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Implementations\\ColorService.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Service\\Implementations\\ColorService.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Implementations\\ColorService.cs",
-              "RelativeToolTip": "EF - Homework\\Service\\Implementations\\ColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:44:50.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CarService.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Implementations\\CarService.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Service\\Implementations\\CarService.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Implementations\\CarService.cs",
-              "RelativeToolTip": "EF - Homework\\Service\\Implementations\\CarService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:44:40.077Z",
+              "WhenOpened": "2025-02-01T10:47:54.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IColorService.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Interfaces\\IColorService.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Service\\Interfaces\\IColorService.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Interfaces\\IColorService.cs",
-              "RelativeToolTip": "EF - Homework\\Service\\Interfaces\\IColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:44:05.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T10:38:31.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\Configurations\\ModelConfiguration.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\Configurations\\ModelConfiguration.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\Configurations\\ModelConfiguration.cs",
+              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\Configurations\\ModelConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:38:31.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\Configurations\\ColorConfiguration.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\Configurations\\ColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\Configurations\\ColorConfiguration.cs",
+              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\Configurations\\ColorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:38:30.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\Configurations\\CarConfiguration.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\Configurations\\CarConfiguration.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\Configurations\\CarConfiguration.cs",
+              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\Configurations\\CarConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:38:25.952Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ICarService.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Interfaces\\ICarService.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Service\\Interfaces\\ICarService.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Interfaces\\ICarService.cs",
-              "RelativeToolTip": "EF - Homework\\Service\\Interfaces\\ICarService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Title": "ModelService.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Implementations\\ModelService.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Service\\Implementations\\ModelService.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Implementations\\ModelService.cs",
+              "RelativeToolTip": "EF - Homework\\Service\\Implementations\\ModelService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAkwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:43:57.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "EF - Homework\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:06:02.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IModelService.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Interfaces\\IModelService.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Service\\Interfaces\\IModelService.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Interfaces\\IModelService.cs",
-              "RelativeToolTip": "EF - Homework\\Service\\Interfaces\\IModelService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:43:39.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T21:23:27.546Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IBrandService.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Interfaces\\IBrandService.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Service\\Interfaces\\IBrandService.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Interfaces\\IBrandService.cs",
-              "RelativeToolTip": "EF - Homework\\Service\\Interfaces\\IBrandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Implementations\\ColorService.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Service\\Implementations\\ColorService.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Implementations\\ColorService.cs",
+              "RelativeToolTip": "EF - Homework\\Service\\Implementations\\ColorService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:01:33.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T21:23:26.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Interfaces\\IModelRepository.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Interfaces\\IModelRepository.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Interfaces\\IModelRepository.cs",
+              "RelativeToolTip": "EF - Homework\\Repositories\\Interfaces\\IModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:24:01.037Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Implementations\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeToolTip": "EF - Homework\\Repositories\\Implementations\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Entities\\Model.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Entities\\Model.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Entities\\Model.cs",
+              "RelativeToolTip": "EF - Homework\\Entities\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:08:45.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BrandService.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Implementations\\BrandService.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Service\\Implementations\\BrandService.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Service\\Implementations\\BrandService.cs",
-              "RelativeToolTip": "EF - Homework\\Service\\Implementations\\BrandService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:20:22.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CarConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\DataAccess\\Data\\Configurations\\CarConfiguration.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\Configurations\\CarConfiguration.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\DataAccess\\Data\\Configurations\\CarConfiguration.cs",
-              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\Configurations\\CarConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:34:42.204Z"
+              "WhenOpened": "2025-02-01T10:34:23.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "BrandConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\DataAccess\\Data\\Configurations\\BrandConfiguration.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\Configurations\\BrandConfiguration.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\DataAccess\\Data\\Configurations\\BrandConfiguration.cs",
-              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\Configurations\\BrandConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Title": "20250131205109_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Migrations\\20250131205109_Initial.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Migrations\\20250131205109_Initial.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Migrations\\20250131205109_Initial.cs",
+              "RelativeToolTip": "EF - Homework\\Migrations\\20250131205109_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:33:49.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T10:40:01.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\DataAccess\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\DataAccess\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "20250131210341_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Migrations\\20250131210341_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Migrations\\20250131210341_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Migrations\\20250131210341_InitialCreate.cs",
+              "RelativeToolTip": "EF - Homework\\Migrations\\20250131210341_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:12:54.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\Car.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Entities\\Car.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\Car.cs",
-              "RelativeToolTip": "EF - Homework\\Entities\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T17:54:27.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Model.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\Model.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Entities\\Model.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\Model.cs",
-              "RelativeToolTip": "EF - Homework\\Entities\\Model.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T17:54:10.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\Brand.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Entities\\Brand.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\Brand.cs",
-              "RelativeToolTip": "EF - Homework\\Entities\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T17:53:46.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T10:40:00.504Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\Color.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Entities\\Color.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\Color.cs",
-              "RelativeToolTip": "EF - Homework\\Entities\\Color.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EF - Homework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T17:54:19.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T10:39:59.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\PB503Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\PB503Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\PB503Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "EF - Homework\\PB503Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:09:08.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvalidIdException.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\PB503Exceptions\\InvalidIdException.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\PB503Exceptions\\InvalidIdException.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\PB503Exceptions\\InvalidIdException.cs",
+              "RelativeToolTip": "EF - Homework\\PB503Exceptions\\InvalidIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:09:43.947Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "CarColor.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\CarColor.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Entities\\CarColor.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\CarColor.cs",
-              "RelativeToolTip": "EF - Homework\\Entities\\CarColor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Title": "BrandConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\Configurations\\BrandConfiguration.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\Configurations\\BrandConfiguration.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DataAccess\\Data\\Configurations\\BrandConfiguration.cs",
+              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\Configurations\\BrandConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:07:45.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T10:37:37.231Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ColorConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\DataAccess\\Data\\Configurations\\ColorConfiguration.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\Configurations\\ColorConfiguration.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\DataAccess\\Data\\Configurations\\ColorConfiguration.cs",
-              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\Configurations\\ColorConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Entities\\Color.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Entities\\Color.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Entities\\Color.cs",
+              "RelativeToolTip": "EF - Homework\\Entities\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:34:53.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T10:33:51.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Entities\\Car.cs",
+              "RelativeToolTip": "EF - Homework\\Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:25:07.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Implementations\\CarService.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Service\\Implementations\\CarService.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Implementations\\CarService.cs",
+              "RelativeToolTip": "EF - Homework\\Service\\Implementations\\CarService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:23:25.827Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "EF - Homework\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Implementations\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeToolTip": "EF - Homework\\Repositories\\Implementations\\ColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T17:57:20.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ModelConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\DataAccess\\Data\\Configurations\\ModelConfiguration.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\DataAccess\\Data\\Configurations\\ModelConfiguration.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\DataAccess\\Data\\Configurations\\ModelConfiguration.cs",
-              "RelativeToolTip": "EF - Homework\\DataAccess\\Data\\Configurations\\ModelConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:34:23.19Z"
+              "WhenOpened": "2025-01-31T21:27:27.784Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Program.cs",
-              "RelativeDocumentMoniker": "EF - Homework\\Program.cs",
-              "ToolTip": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\Program.cs",
-              "RelativeToolTip": "EF - Homework\\Program.cs",
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "EF - Homework\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:41:42.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Interfaces\\IColorService.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Service\\Interfaces\\IColorService.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Interfaces\\IColorService.cs",
+              "RelativeToolTip": "EF - Homework\\Service\\Interfaces\\IColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:23:30.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Implementations\\BrandService.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Service\\Implementations\\BrandService.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Implementations\\BrandService.cs",
+              "RelativeToolTip": "EF - Homework\\Service\\Implementations\\BrandService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:21:27.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Implementations\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Implementations\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Implementations\\BrandRepository.cs",
+              "RelativeToolTip": "EF - Homework\\Repositories\\Implementations\\BrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:26:51.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Service\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "EF - Homework\\Service\\Interfaces\\ICarService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T17:52:05.984Z"
+              "WhenOpened": "2025-01-31T21:23:30.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Implementations\\ModelRepository.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Implementations\\ModelRepository.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Implementations\\ModelRepository.cs",
+              "RelativeToolTip": "EF - Homework\\Repositories\\Implementations\\ModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:27:11.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "RelativeToolTip": "EF - Homework\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:23:38.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Implementations\\CarRepository.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Implementations\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Implementations\\CarRepository.cs",
+              "RelativeToolTip": "EF - Homework\\Repositories\\Implementations\\CarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:27:18.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Interfaces\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Interfaces\\IColorRepository.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Interfaces\\IColorRepository.cs",
+              "RelativeToolTip": "EF - Homework\\Repositories\\Interfaces\\IColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:26:23.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "EF - Homework\\Repositories\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:24:25.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Entities\\Brand.cs",
+              "RelativeToolTip": "EF - Homework\\Entities\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:57:17.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BrandCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DTOs\\Brand\\BrandCreateDTO.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\DTOs\\Brand\\BrandCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\DTOs\\Brand\\BrandCreateDTO.cs",
+              "RelativeToolTip": "EF - Homework\\DTOs\\Brand\\BrandCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:57:04.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Interfaces\\IBrandService.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Service\\Interfaces\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Interfaces\\IBrandService.cs",
+              "RelativeToolTip": "EF - Homework\\Service\\Interfaces\\IBrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:23:29.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "EF - Homework\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:23:43.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IModelService.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Interfaces\\IModelService.cs",
+              "RelativeDocumentMoniker": "EF - Homework\\Service\\Interfaces\\IModelService.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\Service\\Interfaces\\IModelService.cs",
+              "RelativeToolTip": "EF - Homework\\Service\\Interfaces\\IModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:23:32.099Z"
             }
           ]
         }

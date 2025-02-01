@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using EF___Homework.Entities;
 
 namespace EF___Homework.Service.Interfaces
 {
-    internal interface IModelService
+    public interface IModelService
     {
+        void Create(Model model);
+        void Delete(int id);
+        void Update(int id, Model model);
+        Model GetById(int id);
+        List<Model> GetAll();
     }
 }
