@@ -6,6 +6,11 @@ namespace EF___Homework.Entities
     {
         public int ModelId { get; set; }
         public Model Model { get; set; }
+        public List<CarColor> CarColors { get; set; }
+        public double MaxSpeed { get; set; }
+        public double FuelTankCapacity { get; set; }
+        public int Power { get; set; }
+        public int DoorCount { get; set; }
 
     }
 }

@@ -4,5 +4,7 @@ namespace EF___Homework.Entities
 {
     public class Color : BaseEntity
     {
+        public string Name { get; set; }
+        public List<CarColor> CarColors { get; set; }
     }
 }

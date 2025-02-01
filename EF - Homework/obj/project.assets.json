@@ -4006,24 +4006,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Elvin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Elvinei\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\EF - Homework.csproj",
+      "projectUniqueName": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\EF - Homework.csproj",
       "projectName": "EF - Homework",
-      "projectPath": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\EF - Homework.csproj",
-      "packagesPath": "C:\\Users\\Elvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\EF - Homework\\EF - Homework\\obj\\",
+      "projectPath": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\EF - Homework.csproj",
+      "packagesPath": "C:\\Users\\Elvinei\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elvinei\\Desktop\\dasdasd\\test\\EF - Homework\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Elvinei\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4031,6 +4026,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4047,9 +4043,8 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+        "auditMode": "direct"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -4086,7 +4081,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
